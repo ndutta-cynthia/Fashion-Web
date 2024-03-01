@@ -26,3 +26,56 @@ p {
   right: 65%;
   text-align: left;
 }
+
+.topnav a{
+  color: white;
+  gap: 2px;
+}
+ 
+
+.topnav {
+  float: left;
+  text-align: right;
+  color: white;
+  text-decoration-color: white;
+  padding: 14px 16px 20px 30px;
+  font-size: 20px;
+  
+  padding-left: 2000px;
+  padding-bottom: 3000px;
+  width:750px;
+  margin:0 auto;
+
+
+ 
+}
+h4{
+padding-right: 10%;
+
+
+}
+.container {
+  position: relative;
+}
+
+.text-block {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  
+  color: white;
+  padding-left: 20px;
+  padding-right: 1250px;
+  padding-bottom:820px;
+}
+.nbr-block {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  
+  color: white;
+  padding-left: 20px;
+  padding-right: 1250px;
+  padding-bottom:720px;
+
+}
